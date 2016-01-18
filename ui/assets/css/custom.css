@@ -1,0 +1,11 @@
+body {
+    padding-top: 50px;
+}
+.my-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+.users-list {
+    padding-top: 30px;
+}

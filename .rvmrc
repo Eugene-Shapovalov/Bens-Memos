@@ -1,0 +1,2 @@
+rvm use 2.2.3@global --create
+rvm_trust_rvmrcs_flag=1
